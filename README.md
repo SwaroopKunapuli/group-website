@@ -8,7 +8,7 @@ two trailing spaces
 [twitter](https://facebook.com)
 
 ### Learning websites:
--Jekyll
--GitHub Pages
--HTML
--CSS
+-Jekyll  
+-GitHub Pages  
+-HTML  
+-CSS  
