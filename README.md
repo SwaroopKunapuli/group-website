@@ -13,4 +13,4 @@ two trailing spaces
 3. ~HTML~  
 4. CSS  
 Unistra Logo:
- ![alt text] (https://irma.math.unistra.fr/~privat/images/logo-Unistra.jpg "Unistra Logo")
+ ![alt text] (https://raw.githubusercontent.com/carpentries/carpentries.org/main/images/TheCarpentries-opengraph.png "Unistra Logo")
