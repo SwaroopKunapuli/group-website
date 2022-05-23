@@ -1,6 +1,9 @@
 # training - website
 Use this training to create **software and webpages** for your *upcoming project*
-
+{{sites.pages}}
+{{sites.time}}
+{{sites.description}}
+{{sites.email}}
 Projects:  
 1. Genetic Algorithm vdW parameters
 2. Atomistic Green's function + Spectral Graph theory + Atomic Graph for Heat Transfer  
