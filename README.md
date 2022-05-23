@@ -12,4 +12,5 @@ two trailing spaces
 2. GitHub Pages  
 3. ~HTML~  
 4. CSS  
-![alt text] (https://irma.math.unistra.fr/~privat/images/logo-Unistra.jpg "Unistra Logo")
+Unistra Logo:
+ ![alt text] (https://irma.math.unistra.fr/~privat/images/logo-Unistra.jpg "Unistra Logo")
