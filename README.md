@@ -12,4 +12,4 @@ two trailing spaces
 2. GitHub Pages  
 3. ~HTML~  
 4. CSS  
-![alt text] (https://images.app.goo.gl/2MGpcDbMvM5uSRvs9)
+![alt text] (https://irma.math.unistra.fr/~privat/images/logo-Unistra.jpg)
