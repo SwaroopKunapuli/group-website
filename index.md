@@ -4,9 +4,9 @@ title : "website-training"
 author: "Swaroop Kunapuli"
 ---
 # training - website
-{{ page.layout }}
-{{ page.title }}
-{{ page.author }}
+{{ page.layout }}  
+{{ page.title }}  
+{{ page.author }}  
 Use this training to create **software and webpages** for your *upcoming project*  
 {{ site.pages }}  
 {{ site.time }}  
