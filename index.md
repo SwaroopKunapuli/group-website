@@ -7,4 +7,5 @@ Projects:
 3. Cutting Edge DFT techniques for Magnetic Hyperthermia  
 4. Single Atom Hetergeneous Catalysis/Homogeneous Supported Catalysis
 5. CO2 absorption industrial scale
-6. Quantum Photonics and Quantum Information
+6. Quantum Photonics and Quantum Information  
+7. Android Security Encryption
